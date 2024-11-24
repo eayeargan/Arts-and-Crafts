@@ -1,1 +1,1 @@
-Adding the first README file to the Arts and Crafts practice project
+Adding the first README file to the Arts and Crafts practice project with happiness!
