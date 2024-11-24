@@ -1,3 +1,19 @@
 .header{
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1ymusub*_gcl_au*MTIwOTY2MDkzNC4xNzI4MTU0MTEw*_ga*ODkzNDg3NTkwMy4xNzI4MTU0MTAy*_ga_3LRZM6TM9L*MTczMjQ3MzEzOS40MC4xLjE3MzI0NzMxNDIuNTcuMC4w);
+    color: yellow;
+}
+.brushes{
+    background-color: greenyellow;
+    color: white;
+}
+.frames{
+    background-color: red;
+    color: white;
+}
+.paint{
+    background-color: blue;
+    color: white;
+}
+.blue{
+    color: blue;
 }
